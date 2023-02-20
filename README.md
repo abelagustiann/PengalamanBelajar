@@ -1,20 +1,14 @@
 # PengalamanBelajar
 Repository Ini Berisi Pengalaman Belajarku di Dicoding
 
-**14 Juni 2021**  
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
-  * Belajar tentang apa itu Java dan alasan menggunakannya.
-  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+**18 Februari 2023**  
+Belajar kelas Dasar Pemrograman untuk Menjadi Pengembang Software. (Progres 56%)
+  * Belajar tentang memahami kebutuhan aplikasi.
+  * Belajar perancangan modifikasi aplikasi.
 
-**15 Juni 2021**  
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
-  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
-  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
-  * Belajar tipe data koleksi, seperti list, set, dan map.
-
-**20 Juni 2021**  
-Belajar Kelas Memulai Pemrograman dengan Java. (Progres 100%)
-  * Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program
-  * Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input-input, date time, dan casting.
-  * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar.
+**19 Februari 2022**  
+Belajar kelas Dasar Pemrograman untuk Menjadi Pengembang Software. (Progres 100%)
+  * Mengerti konsep dasar pemrograman.
+  * Modifikasi aplikasi perangkat lunak.
+  * Dokumentasi pemrograman dan pengembangan aplikasi perangkat lunak.
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
